@@ -1,4 +1,4 @@
-# Hi there, I'm Engr. Aljun Abrenica ⚡
+# Hi there, I'm Engr. Aljun Abrenica 💻
 
 ***I am a software developer & engineer from southeast Asia and a computer engineering graduate offering a strong foundation in software development and programming principles across multiple platforms. Experienced in object-oriented programming,
 debugging code, designing interfaces, etc.***
